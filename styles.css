@@ -9,18 +9,18 @@ body {
     font-family: 'Lucida Sans'; 
     color: #00376c;
 }
-.anchor {
+a {
     color: #00376c;
     text-decoration: none; 
 }
-.anchor:hover {
+a:hover {
     text-decoration: underline;
 }
-level-2-heading {
+h2 {
     border-bottom: 2px #7b7b7b;
     text-align: center;
 }
-level-3-heading {
+h3 {
     color: #1577ff;
     border-bottom: 2px solid #1577ff;
     display: inline;
@@ -34,7 +34,7 @@ level-3-heading {
     background-color: #e7e7e7;
 }
 .services, footer {
-    font-style: italic
+    font-style: italic;
 }
 header{
     border-bottom: #7b7b7b;
@@ -45,9 +45,10 @@ header, footer{
     background-color: #c7e3ff;
     margin-bottom: 40px;
 }
+image{
+    background-image: url(https://github.com/vynooks/css-html.website/blob/main/cat-basket.jpg);
+    width: 150px;
+}
 footer{
     padding: 10px;
-}
-image{
-    width: 150px;
 }
