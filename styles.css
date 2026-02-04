@@ -1,7 +1,10 @@
-<head>
 p {
     border: 6px solid #7b7b7b;
     line-height: 80px;
     margin-bottom: 40px;
 }
-</head>
+body {
+    width: 600px;
+    margin: 0 auto;
+    font-family: 'Lucida Sans'; color: #06376c;
+}
