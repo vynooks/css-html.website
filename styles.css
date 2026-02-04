@@ -25,7 +25,7 @@ level-3-heading {
     border-bottom: 2px solid #1577ff;
     display: inline;
 }
- .story .services .locations {
+ .story, .services, .locations {
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 10px;
